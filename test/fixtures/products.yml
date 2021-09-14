@@ -1,13 +1,19 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
+  title: Keycap1
   description: MyText
-  image_url: MyString
+  image_url: vader.jpg
   price: 9.99
 
 two:
-  title: MyString
+  title: Keycap2
   description: MyText
-  image_url: MyString
+  image_url: vader.jpg
   price: 9.99
+
+rainbow:
+  title: Rainbow Road
+  description: An eye-catching rainbow gradient set.
+  image_url: pikachu.png
+  price: 69.50
